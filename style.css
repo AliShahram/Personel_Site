@@ -225,6 +225,9 @@ nav .brand-logo {
   overflow: auto;
   float: left;
   position: relative;
+  text-align: justify;
+  padding-right: 15px;
+
 }
 
 
@@ -241,6 +244,17 @@ nav .brand-logo {
   font-size: 24px;
   font-weight: 600;  
   text-transform: uppercase;
+}
+
+#more {display: none;}
+
+#myBtn {
+  color: #fff;
+  font-weight: 400;
+  background-color: #FA8072;
+  padding: 6px;
+  border-radius: 5px;
+  margin-left: 10px;
 }
 
 
@@ -884,6 +898,7 @@ transition: background-color 0.5s ease-in-out;
 /*--------------------*/
 /* RESPONSIVE STYLE */
 /*--------------------*/
+
 
 
 @media(max-width:1199px ){
