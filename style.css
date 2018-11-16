@@ -342,7 +342,6 @@ nav .brand-logo {
 #experience{
   background-color: #fff;
   display: inline;
-  padding: 10px 0;
   float: left;
   width: 100%;
 
@@ -375,13 +374,13 @@ nav .brand-logo {
 }
 
 .exp-list-left{
-  display: inline;
   float: left;
-  width: 250px;
+  width: 20%;
   min-height: 250px;
   background-color: #FA8072;
-  padding: 30px;
+  padding: 20px;
 }
+
 
 
 .exp-list-title p{
@@ -408,9 +407,6 @@ nav .brand-logo {
   padding-left: 10px;
   width: 50%;
   float: left;
-  position: relative;
-  display: inline
-
 }
 
 
@@ -898,6 +894,8 @@ transition: background-color 0.5s ease-in-out;
 /*--------------------*/
 /* RESPONSIVE STYLE */
 /*--------------------*/
+
+
 
 
 
