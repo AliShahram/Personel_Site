@@ -9,13 +9,13 @@ a {
 
 
 .side-nav li:hover{
-  background-color: #FA8072;  
+  background-color: #6b639b;
 }
 .btn ,.btn-large{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .btn:hover, .btn-large:hover {
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .home-title span{
   color: #727272;
@@ -40,10 +40,10 @@ a {
   color: #727272;
 }
 .filter:focus{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 #portfolio-list .mix:hover > a::before {
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .counter{
   color: #727272;
@@ -54,7 +54,7 @@ a {
 }
 
 .pro-bar.color-amethyst {
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .call-to-about i{
   color: #727272;
@@ -69,10 +69,10 @@ a {
 }
 
 .readmore-btn:hover{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 #experience{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 
 .card-title i {
@@ -82,13 +82,13 @@ a {
   color: #727272;
 }
 #testimonial{
-  background-color: #FA8072;  
+  background-color: #6b639b;
 }
 .testimonial-content h3 {
   color: #727272;
 }
 .footer-top{
-  background-color:#727272; 
+  background-color:#727272;
 }
 input[type="text"]:focus:not([readonly]) + label,
 input[type="password"]:focus:not([readonly]) + label,
@@ -118,14 +118,14 @@ textarea.materialize-textarea:focus:not([readonly]) {
   box-shadow: 0 1px 0 0 #727272;
 }
 .submit-btn{
-  color: #727272;  
+  color: #727272;
 }
 .submit-btn:hover,
 .submit-btn:focus{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .overlay-header{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .blog-content blockquote {
   border-left: 5px solid #727272;
@@ -142,33 +142,33 @@ textarea.materialize-textarea:focus:not([readonly]) {
   background-color: #727272 !important;
 }
 .reply-btn:hover{
-  background-color: #FA8072; 
+  background-color: #6b639b;
 }
 .pagination li.active{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .card .card-action a {
-  color: #727272;  
+  color: #727272;
 }
 .tagcloud a:hover,
 .tagcloud a:focus{
   color: #fff;
-  background-color: #FA8072;
+  background-color: #6b639b;
   border-color: #727272;
 }
 .prev-post:hover,
 .prev-post:focus,
 .next-post:hover,
 .next-post:focus{
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
 .submit-btn{
-  color: #727272;  
+  color: #727272;
 }
 .side-nav li:hover,
 .side-nav li.active {
-  background-color: #FA8072; 
+  background-color: #6b639b;
 }
 .progress .indeterminate {
-  background-color: #FA8072;
+  background-color: #6b639b;
 }
