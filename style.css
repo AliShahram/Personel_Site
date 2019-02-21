@@ -58,8 +58,6 @@ nav .brand-logo {
   text-transform: uppercase;
 }
 
-
-
 .side-nav a {
   text-transform: uppercase;
 }
@@ -927,7 +925,7 @@ transition: background-color 0.5s ease-in-out;
   .exp-list-left{width: 100%;}
   .exp-list-right{width: 100%;}
   .home-inner-profile {height: 450px; width: 450px; margin-top: 70px;}
-  .home-inner-left{min-width: 450px; margin: 0px;}
+  .home-inner-left{margin: 0px;}
 
 
 
@@ -978,7 +976,7 @@ transition: background-color 0.5s ease-in-out;
   .fa{font-size: 20px; margin-right: 5px;}
   .skill-languages {margin-left: 30px;}
   .contact-inner-right, .contact-inner-left {width: 100%}
-  .home-inner-profile {height: 350px; width: 350px; margin-top: 70px;}
+  .home-inner-profile {height: 270px; width: 270px; margin-top: 70px;}
   .home-inner h1 {font-size: 20px;}
   .home-inner {padding: 0px; margin: 0px; width: 100%;}
 }
