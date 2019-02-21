@@ -915,7 +915,7 @@ transition: background-color 0.5s ease-in-out;
   .skill-languages {margin-left: 30px;}
   .inner-right-box p{font-size: 15px;}
   .inner-right-box span{font-size: 12px;}
-  .home-inner-profile {height: 300px; width: 300px; margin-top: 70px;}
+  .home-inner-profile {max-height: 300px; width: 300px; margin-top: 70px;}
   .home-inner-left{min-width: 300px; margin: 0px;}
   .home-inner {margin-top: 20px; margin-left: 0; padding: 5px;}
 
@@ -924,7 +924,7 @@ transition: background-color 0.5s ease-in-out;
 @media(max-width:900px ){
   .exp-list-left{width: 100%;}
   .exp-list-right{width: 100%;}
-  .home-inner-profile {height: 450px; width: 450px; margin-top: 70px;}
+  .home-inner-profile {height: 400px; width: 400px; margin-top: 70px;}
   .home-inner-left{margin: 0px;}
 
 
@@ -1040,7 +1040,6 @@ transition: background-color 0.5s ease-in-out;
   .exp-list-right{width: 100%; height: 400px;}
   .skill-progress-bar {width: 90%;}
   .skill-progress-bar-second {width: 90%; margin-left: 0px;}
-
 
 }
 
